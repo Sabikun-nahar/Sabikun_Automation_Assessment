@@ -18,10 +18,13 @@ NOTE:
 3. It should be able to generate the report after every execution.
 4. I use javascript languages and automation frameworks(mocha). Also, add a readme file for the execution process.
 
+# On the answers: 
+Unable to varify the products names and total prices.
+
 ## Run the project
 
-Clone the project 
+The project will be showing on the following repository.
 
 ```bash
-    git clone https://github.com/Sabikun-nahar/Manual_testing_project.git
+    git https://github.com/Sabikun-nahar/Manual_testing_project.git
 ```
