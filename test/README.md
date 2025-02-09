@@ -26,5 +26,5 @@ Unable to varify the products names and total prices.
 The project will be showing on the following repository.
 
 ```bash
-    git https://github.com/Sabikun-nahar/Manual_testing_project.git
+    git https://github.com/Sabikun-nahar/Sabikun_Automation_Assessment.git
 ```
